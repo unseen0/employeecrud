@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 8,
+      "firstName": "rahul",
+      "lastName": "sharma",
+      "email": "rahul.referrals@gmail.com",
+      "mobile": "7903177996",
+      "salary": "5000"
+    },
+    {
+      "id": 9,
+      "firstName": "ravi ",
+      "lastName": "kumar",
+      "email": "rahul.referrals@gmail.com",
+      "mobile": "7903177996",
+      "salary": "555"
+    },
+    {
+      "id": 10,
+      "firstName": "kkkk",
+      "lastName": "kkkk",
+      "email": "kk",
+      "mobile": "kkk",
+      "salary": "jjjj"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
